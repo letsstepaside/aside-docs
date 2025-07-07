@@ -1,7 +1,9 @@
 # Aside.
 Mission, principles and strategy.
+
 ## Mission
 To create the radically private form of digital communication - for those who need it most.
+
 ---
 ## Principles
 - Radical privacy
@@ -18,6 +20,7 @@ Presence, precision, and instant disappearance.
 Less isn’t less - it’s safety.
 If you're building something outside these principles,
 you’re not building Aside.
+
 ---
 ## Strategy
 ### 1. Serve those who can’t afford to be under surveillance.
@@ -65,5 +68,6 @@ This isn’t theoretical. It’s urgent.
 – Listen to those who need it to survive
 – Build in the open, fail in the open, learn in the open
 The people we’re building for don’t have the luxury of waiting.
+
 ---
 Team Aside
